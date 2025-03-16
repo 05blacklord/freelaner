@@ -503,47 +503,47 @@ document.addEventListener('DOMContentLoaded', function() {
         const featuredFreelancersData = [
             {
                 id: 1,
-                name: 'Alex Johnson',
-                title: 'Full Stack Developer',
+                name: 'Abbasov Elcan',
+                title: 'Web Developer',
                 rating: 5.0,
                 reviewCount: 124,
                 hourlyRate: 45,
                 skills: ['JavaScript', 'React', 'Node.js', 'MongoDB', 'Express'],
-                imageUrl: '/api/placeholder/400/320',
-                location: 'San Francisco, CA'
+                imageUrl: './elcan.jpeg',
+                location: 'Az-Ganja'
             },
             {
                 id: 2,
-                name: 'Sarah Miller',
+                name: 'Jalə Məmmədova',
                 title: 'UX/UI Designer',
                 rating: 4.9,
                 reviewCount: 87,
                 hourlyRate: 55,
                 skills: ['Figma', 'Adobe XD', 'Sketch', 'User Research', 'Prototyping'],
-                imageUrl: '/api/placeholder/400/320',
-                location: 'New York, NY'
+                imageUrl: './jala.jpeg',
+                location: 'Az-Ganja'
             },
             {
                 id: 3,
-                name: 'Michael Chen',
-                title: 'Content Strategist',
+                name: 'Nuranə Nadirova',
+                title: 'Finance Manager',
                 rating: 4.8,
                 reviewCount: 103,
                 hourlyRate: 35,
-                skills: ['Content Writing', 'SEO', 'Social Media', 'Email Marketing', 'Brand Voice'],
-                imageUrl: '/api/placeholder/400/320',
-                location: 'Chicago, IL'
+                skills: [ 'SEO', 'Social Media', 'Email Marketing', 'Brand Voice'],
+                imageUrl: './nunu.jpeg',
+                location: 'Az-Ganja'
             },
             {
                 id: 4,
-                name: 'Rebecca Taylor',
-                title: 'Digital Marketer',
+                name: 'Suqra Mirzəyeva',
+                title: 'UX/UI Designer',
                 rating: 4.7,
                 reviewCount: 92,
                 hourlyRate: 40,
-                skills: ['SEO', 'PPC', 'Social Media Marketing', 'Analytics', 'Content Marketing'],
-                imageUrl: '/api/placeholder/400/320',
-                location: 'Austin, TX'
+                skills: ['Figma', 'Adobe XD', 'Sketch', 'User Research', 'Prototyping'],
+                imageUrl: './suqra.jpeg',
+                location: 'Az-Ganja'
             }
         ];
         
